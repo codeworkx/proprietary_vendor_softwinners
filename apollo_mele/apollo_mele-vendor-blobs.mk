@@ -38,6 +38,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/hw/camera.exDroid.so:system/lib/hw/camera.exDroid.so \
     $(LOCAL_PATH)/proprietary/system/lib/hw/display.sun4i.so:system/lib/hw/display.sun4i.so \
     $(LOCAL_PATH)/proprietary/system/lib/hw/gps.exDroid.so:system/lib/hw/gps.exDroid.so \
-    $(LOCAL_PATH)/proprietary/system/lib/hw/gralloc.sun4i.so:system/lib/hw/gralloc.sun4i.so \
     $(LOCAL_PATH)/proprietary/system/lib/hw/hwcomposer.exDroid.so:system/lib/hw/hwcomposer.exDroid.so \
     $(LOCAL_PATH)/proprietary/system/lib/hw/lights.sun4i.so:system/lib/hw/lights.sun4i.so
+#    $(LOCAL_PATH)/proprietary/system/lib/hw/gralloc.sun4i.so:system/lib/hw/gralloc.sun4i.so \
